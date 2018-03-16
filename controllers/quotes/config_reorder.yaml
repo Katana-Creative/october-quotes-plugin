@@ -1,0 +1,4 @@
+title: Quotes
+modelClass: Katana\Quotes\Models\Quotes
+toolbar:
+    buttons: reorder_toolbar

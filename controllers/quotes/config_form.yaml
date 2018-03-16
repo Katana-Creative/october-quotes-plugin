@@ -1,0 +1,10 @@
+name: Quotes
+form: $/katana/quotes/models/quotes/fields.yaml
+modelClass: Katana\Quotes\Models\Quotes
+defaultRedirect: katana/quotes/quotes
+create:
+    redirect: 'katana/quotes/quotes/update/:id'
+    redirectClose: katana/quotes/quotes
+update:
+    redirect: katana/quotes/quotes
+    redirectClose: katana/quotes/quotes

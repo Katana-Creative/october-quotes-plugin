@@ -1,0 +1,11 @@
+plugin:
+    name: 'katana.quotes::lang.plugin.name'
+    description: 'katana.quotes::lang.plugin.description'
+    author: Katana
+    icon: oc-icon-quote-left
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Quotes
+        url: katana/quotes/quotes
+        icon: icon-quote-left

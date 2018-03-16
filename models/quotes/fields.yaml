@@ -1,0 +1,12 @@
+fields:
+    author:
+        label: Author
+        oc.commentPosition: ''
+        span: auto
+        type: text
+    quote:
+        label: Quote
+        size: ''
+        oc.commentPosition: ''
+        span: full
+        type: richeditor
